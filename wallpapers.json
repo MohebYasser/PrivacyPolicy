@@ -1,0 +1,18 @@
+{
+    "Collections":[
+        {
+            "name":"Nature",
+            "preview_url":"http://wallpapercave.com/wp/hi8QqOs.jpg",
+            "preview_thumbnail_url":"http://wallpapercave.com/wp/hi8QqOs.jpg"
+        },
+        {
+            "name":"Dark",
+            "preview_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_a.png",
+            "preview_thumbnail_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_a.png"
+        },
+        {
+            "name":"City",
+            "preview_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_c.png",
+            "preview_thumbnail_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_c.png"
+        }
+    ],
