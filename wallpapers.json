@@ -1,19 +1,39 @@
 {
     "Collections":[
         {
-            "name":"Nature",
-            "preview_url":"http://wallpapercave.com/wp/hi8QqOs.jpg",
-            "preview_thumbnail_url":"http://wallpapercave.com/wp/hi8QqOs.jpg"
+            "name":"Landscapes",
+            "preview_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_a.png",
+            "preview_thumbnail_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_a.png"
+        },
+        {
+            "name":"City",
+            "preview_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_c.png",
+            "preview_thumbnail_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_c.png"
         }
     ],
-    
     "Wallpapers":[
+        {
+            "name":"Wallsplash 1",
+            "author":"wallsplash",
+            "url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_a.png",
+            "thumbnail":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_a.png",
+            "collections":"featured,landscapes,people,city"
+        },
+        {
+            "name":"Wallsplash 2",
+            "author":"wallsplash",
+            "url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_b.png",
+            "thumbnail":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_b.png",
+            "dimensions":"3200x2560",
+            "copyright":"Free (do whatever you want)",
+            "collections":"featured,landscapes,people,food"
+        },
         {
             "name":"Wallsplash 3",
             "author":"wallsplash",
-            "url":"http://wallpapercave.com/wp/hi8QqOs.jpg",
+            "url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_c.png",
             "copyright":"Free (do whatever you want)",
-            "collections":"featured,Nature"
+            "collections":"featured,food,people"
         }
     ]
 }
