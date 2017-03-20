@@ -3,12 +3,12 @@
         {
             "name":"Landscapes",
             "preview_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_a.png",
-            "preview_thumbnail_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_a.png"
+            "preview_thumbnail_url":"http://wallpapercave.com/wp/hi8QqOs.jpg"
         },
         {
             "name":"City",
             "preview_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_c.png",
-            "preview_thumbnail_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_c.png"
+            "preview_thumbnail_url":"http://wallpapercave.com/wp/hi8QqOs.jpg"
         }
     ],
     "Wallpapers":[
@@ -16,7 +16,7 @@
             "name":"Wallsplash 1",
             "author":"wallsplash",
             "url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_a.png",
-            "thumbnail":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_a.png",
+            "thumbnail":"http://wallpapercave.com/wp/hi8QqOs.jpg",
             "collections":"featured,landscapes,people,city"
         },
         {
