@@ -2,28 +2,28 @@
     "Collections":[
         {
             "name":"Landscapes",
-            "preview_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_a.png",
-            "preview_thumbnail_url":"http://wallpapercave.com/wp/hi8QqOs.jpg"
+            "preview_url":"https://raw.githubusercontent.com/MohebYasser/FastProApps.github.io/master/hi8QqOs.jpg",
+            "preview_thumbnail_url":"https://raw.githubusercontent.com/MohebYasser/FastProApps.github.io/master/hi8QqOs.jpg"
         },
         {
             "name":"City",
-            "preview_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_c.png",
-            "preview_thumbnail_url":"http://wallpapercave.com/wp/hi8QqOs.jpg"
+            "preview_url":"https://raw.githubusercontent.com/MohebYasser/FastProApps.github.io/master/hi8QqOs.jpg",
+            "preview_thumbnail_url":"https://raw.githubusercontent.com/MohebYasser/FastProApps.github.io/master/hi8QqOs.jpg"
         }
     ],
     "Wallpapers":[
         {
             "name":"Wallsplash 1",
             "author":"wallsplash",
-            "url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_a.png",
-            "thumbnail":"http://wallpapercave.com/wp/hi8QqOs.jpg",
+            "url":"https://raw.githubusercontent.com/MohebYasser/FastProApps.github.io/master/hi8QqOs.jpg",
+            "thumbnail":"https://raw.githubusercontent.com/MohebYasser/FastProApps.github.io/master/hi8QqOs.jpg",
             "collections":"featured,landscapes,people,city"
         },
         {
             "name":"Wallsplash 2",
             "author":"wallsplash",
-            "url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_b.png",
-            "thumbnail":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_b.png",
+            "url":"https://raw.githubusercontent.com/MohebYasser/FastProApps.github.io/master/hi8QqOs.jpg",
+            "thumbnail":"https://raw.githubusercontent.com/MohebYasser/FastProApps.github.io/master/hi8QqOs.jpg",
             "dimensions":"3200x2560",
             "copyright":"Free (do whatever you want)",
             "collections":"featured,landscapes,people,food"
