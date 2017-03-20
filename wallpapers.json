@@ -1,176 +1,119 @@
 {
     "Collections":[
         {
-            "name":"Amoled",
+            "name":"Landscapes",
             "preview_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_a.png",
             "preview_thumbnail_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_a.png"
+        },
+        {
+            "name":"City",
+            "preview_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_c.png",
+            "preview_thumbnail_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_c.png"
+        },
+        {
+            "name":"Food",
+            "preview_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_b.png",
+            "preview_thumbnail_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_b.png"
+        },
+        {
+            "name":"People",
+            "preview_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_d.png",
+            "preview_thumbnail_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_d.png"
         }
     ],
     "Wallpapers":[
-	
-	    
-       
-   {
+        {
+            "name":"ShotA",
             "author":"Someone",
-            "url":"https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Amoled/Amoled20.jpg",
-			"thumbnail":"https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Amoled/Preview/Amoled20%20Preview.jpg",
-            "name":"wall 1",
-            "copyright":"Credits to its creator",
-            "collections":"Amoled"
+            "url":"https://raw.githubusercontent.com/jahirfiquitiva/MinDesigns-Wallpapers/master/Wallpapers/Free/walla.jpg",
+            "collections":"featured,landscapes,people"
         },
-		{
-		 "author":"Someone",
-            "url":"https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Amoled/Amoled19.png",
-			"thumbnail":"https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Amoled/Preview/Amoled19%20Preview.jpg",
-            "name":"wall 1",
-            "copyright":"Credits to its creator",
-            "collections":"Amoled"
+        {
+            "name":"ShotB",
+            "author":"Someone",
+            "url":"https://raw.githubusercontent.com/jahirfiquitiva/MinDesigns-Wallpapers/master/Wallpapers/Free/wallb.png",
+            "dimensions":"3200x2560",
+            "collections":"people,city"
         },
-		{
-		 "author":"Someone",
-            "url":"https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Amoled/Amoled18.jpg",
-			"thumbnail":"https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Amoled/Preview/Amoled18%20Preview.jpg",
-            "name":"wall 1",
+        {
+            "author":"Someone",
+            "url":"https://raw.githubusercontent.com/jahirfiquitiva/MinDesigns-Wallpapers/master/Wallpapers/Free/wallc.jpg",
+            "name":"ShotC",
+            "dimensions":"1280x720",
             "copyright":"Credits to its creator",
-            "collections":"Amoled"
+            "collections":"landscapes,city"
         },
-		{
-		 "author":"Someone",
-            "url":"https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Amoled/Amoled17.jpg",
-			"thumbnail":"https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Amoled/Preview/Amoled17%20Preview.jpg",
-            "name":"wall 1",
-            "copyright":"Credits to its creator",
-            "collections":"Amoled"
+        {
+            "name":"Wallsplash 1",
+            "author":"wallsplash",
+            "url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_a.png",
+            "thumbnail":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_a.png",
+            "dimensions":"3200x2560",
+            "copyright":"Free (do whatever you want)",
+            "collections":"featured,landscapes,people,city"
         },
-		{
-		 "author":"Someone",
-            "url":"https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Amoled/Amoled16.png",
-			"thumbnail":"https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Amoled/Preview/Amoled16%20Preview.jpg",
-            "name":"wall 1",
-            "copyright":"Credits to its creator",
-            "collections":"Amoled"
+        {
+            "name":"Wallsplash 2",
+            "author":"wallsplash",
+            "url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_b.png",
+            "thumbnail":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_b.png",
+            "dimensions":"3200x2560",
+            "copyright":"Free (do whatever you want)",
+            "collections":"featured,landscapes,people,food"
         },
-		{
-		 "author":"Someone",
-            "url":"https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Amoled/Amoled15.jpg",
-			"thumbnail":"https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Amoled/Preview/Amoled15%20Preview.jpg",
-            "name":"wall 1",
-            "copyright":"Credits to its creator",
-            "collections":"Amoled"
+        {
+            "name":"Wallsplash 3",
+            "author":"wallsplash",
+            "url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_c.png",
+            "thumbnail":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_c.png",
+            "dimensions":"3200x2560",
+            "copyright":"Free (do whatever you want)",
+            "collections":"featured,food,people"
         },
-		{
-		 "author":"Someone",
-            "url":"https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Amoled/Amoled14.png",
-			"thumbnail":"https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Amoled/Preview/Amoled14%20Preview.jpg",
-            "name":"wall 1",
-            "copyright":"Credits to its creator",
-            "collections":"Amoled"
+        {
+            "name":"Wallsplash 4",
+            "author":"wallsplash",
+            "url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_d.png",
+            "thumbnail":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_d.png",
+            "dimensions":"3200x2560",
+            "copyright":"Free (do whatever you want)",
+            "collections":"landscapes,people,city"
         },
-		{
-		 "author":"Someone",
-            "url":"https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Amoled/Amoled13.jpg",
-			"thumbnail":"https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Amoled/Preview/Amoled13%20Preview.jpg",
-            "name":"wall 1",
-            "copyright":"Credits to its creator",
-            "collections":"Amoled"
+        {
+            "name":"Wallsplash 5",
+            "author":"wallsplash",
+            "url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_e.png",
+            "thumbnail":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_e.png",
+            "dimensions":"3200x2560",
+            "copyright":"Free (do whatever you want)",
+            "collections":"featured,landscapes"
         },
-		{
-		 "author":"Someone",
-            "url":"https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Amoled/Amoled12.jpg",
-			"thumbnail":"https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Amoled/Preview/Amoled12%20Preview.jpg",
-            "name":"wall 1",
-            "copyright":"Credits to its creator",
-            "collections":"Amoled"
+        {
+            "name":"Wallsplash 6",
+            "author":"wallsplash",
+            "url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_f.png",
+            "thumbnail":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_f.png",
+            "dimensions":"3200x2560",
+            "copyright":"Free (do whatever you want)",
+            "collections":"featured,people"
         },
-		{
-		 "author":"Someone",
-            "url":"https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Amoled/Amoled11.jpg",
-			"thumbnail":"https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Amoled/Preview/Amoled11%20Preview.jpg",
-            "name":"wall 1",
-            "copyright":"Credits to its creator",
-            "collections":"Amoled"
+        {
+            "name":"Wallsplash 7",
+            "author":"wallsplash",
+            "url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_g.png",
+            "thumbnail":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_g.png",
+            "dimensions":"3200x2560",
+            "copyright":"Free (do whatever you want)",
+            "collections":"landscapes,people"
         },
-		{
-		 "author":"Someone",
-            "url":"https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Amoled/Amoled10.jpg",
-			"thumbnail":"https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Amoled/Preview/Amoled10%20Preview.jpg",
-            "name":"wall 1",
-            "copyright":"Credits to its creator",
-            "collections":"Amoled"
-        },
-		{
-		 "author":"Someone",
-            "url":"https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Amoled/Amoled9.jpg",
-			"thumbnail":"https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Amoled/Preview/Amoled9%20Preview.jpg",
-            "name":"wall 1",
-            "copyright":"Credits to its creator",
-            "collections":"Amoled"
-        },
-		{
-		 "author":"Someone",
-            "url":"https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Amoled/Amoled8.jpg",
-			"thumbnail":"https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Amoled/Preview/Amoled8%20Preview.jpg",
-            "name":"wall 1",
-            "copyright":"Credits to its creator",
-            "collections":"Amoled"
-        },
-		{
-		 "author":"Someone",
-            "url":"https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Amoled/Amoled7.jpg",
-			"thumbnail":"https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Amoled/Preview/Amoled7%20Preview.jpg",
-            "name":"wall 1",
-            "copyright":"Credits to its creator",
-            "collections":"Amoled"
-        },
-		{
-		 "author":"Someone",
-            "url":"https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Amoled/Amoled6.jpg",
-			"thumbnail":"https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Amoled/Preview/Amoled6%20Preview.jpg",
-            "name":"wall 1",
-            "copyright":"Credits to its creator",
-            "collections":"Amoled"
-        },
-		{
-		 "author":"Someone",
-            "url":"https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Amoled/Amoled5.jpg",
-			"thumbnail":"https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Amoled/Preview/Amoled5%20Preview.jpg",
-            "name":"wall 1",
-            "copyright":"Credits to its creator",
-            "collections":"Amoled"
-        },
-		{
-		 "author":"Someone",
-            "url":"https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Amoled/Amoled4.jpg",
-			"thumbnail":"https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Amoled/Preview/Amoled4%20Preview.jpg",
-            "name":"wall 1",
-            "copyright":"Credits to its creator",
-            "collections":"Amoled"
-        },
-		{
-		 "author":"Someone",
-            "url":"https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Amoled/Amoled3.jpg",
-			"thumbnail":"https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Amoled/Preview/Amoled3%20Preview.jpg",
-            "name":"wall 1",
-            "copyright":"Credits to its creator",
-            "collections":"Amoled"
-        },
-		{
-		 "author":"Someone",
-            "url":"https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Amoled/Amoled2.jpg",
-			"thumbnail":"https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Amoled/Preview/Amoled2%20Preview.jpg",
-            "name":"wall 1",
-            "copyright":"Credits to its creator",
-            "collections":"Amoled"
-        },
-		{
-		 "author":"Someone",
-            "url":"https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Amoled/Amoled1.jpg",
-			"thumbnail":"https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Amoled/Preview/Amoled1%20Preview.jpg",
-            "name":"wall 1",
-            "copyright":"Credits to its creator",
-            "collections":"Amoled"
-      
-		}
-       
+        {
+            "name":"Wallsplash 8",
+            "author":"wallsplash",
+            "url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_h.png",
+            "thumbnail":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_h.png",
+            "dimensions":"3200x2560",
+            "copyright":"Free (do whatever you want)",
+            "collections":"food"
+        }
     ]
 }
