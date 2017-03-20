@@ -43,6 +43,16 @@
             "copyright":"Credits to its creator",
             "collections":"landscapes,city"
         },
+        
+        {
+            "name":"Wallsplash 1",
+            "author":"wallsplash",
+            "url":"https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Amoled/Amoled2.jpg",
+            "thumbnail":"https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Amoled/Preview/Amoled2%20Preview.jpg",
+            "dimensions":"3200x2560",
+            "copyright":"Free (do whatever you want)",
+            "collections":"featured,landscapes,people,city"
+        },
         {
             "name":"Wallsplash 1",
             "author":"wallsplash",
