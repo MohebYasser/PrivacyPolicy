@@ -1,1850 +1,359 @@
-{
+
     "Collections":[
         {
-            "name":"Abstract",
-            "preview_url":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/abstract/1.jpg",
-            "preview_thumbnail_url":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/abstract/1.jpg"
+            "name":"Amoled",
+            "preview_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_a.png",
+            "preview_thumbnail_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_a.png"
         },
         {
-            "name":"Anime",
-            "preview_url":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/anime/21.jpg",
-            "preview_thumbnail_url":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/anime/21.jpgg"
+            "name":"Anim",
+            "preview_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_c.png",
+            "preview_thumbnail_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_c.png"
         },
         {
             "name":"Cars",
-            "preview_url":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/cars/41.jpg",
-            "preview_thumbnail_url":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/cars/41.jpg"
+            "preview_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_b.png",
+            "preview_thumbnail_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_b.png"
+        },
+		{
+            "name":"Fantasy",
+            "preview_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_b.png",
+            "preview_thumbnail_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_b.png"
+        },
+		{
+            "name":"Games",
+            "preview_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_b.png",
+            "preview_thumbnail_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_b.png"
+        },
+		{
+            "name":"Girls",
+            "preview_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_b.png",
+            "preview_thumbnail_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_b.png"
+        },
+		{
+            "name":"Hero",
+            "preview_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_b.png",
+            "preview_thumbnail_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_b.png"
+        },
+		{
+            "name":"Material",
+            "preview_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_b.png",
+            "preview_thumbnail_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_b.png"
+        },
+		{
+            "name":"Minimal",
+            "preview_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_b.png",
+            "preview_thumbnail_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_b.png"
+        },
+		{
+            "name":"Other",
+            "preview_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_b.png",
+            "preview_thumbnail_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_b.png"
+        },
+		{
+            "name":"Pokemon",
+            "preview_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_b.png",
+            "preview_thumbnail_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_b.png"
+        },
+		{
+            "name":"Wide",
+            "preview_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_b.png",
+            "preview_thumbnail_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_b.png"
         },
         {
-            "name":"Earth",
+            "name":"Devices",
             "preview_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_d.png",
             "preview_thumbnail_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_d.png"
-        },
-        {
-            "name":"Food",
-            "preview_url":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/Food/81.jpg",
-            "preview_thumbnail_url":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/Food/81.jpg"
-        },
-        {
-            "name":"Girls",
-            "preview_url":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/Girls/101.jpg",
-            "preview_thumbnail_url":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/Girls/101.jpg"
-        },
-        {
-            "name":"Material Design",
-            "preview_url":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/materialdesign/181.png",
-            "preview_thumbnail_url":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/materialdesign/181.png"
-        },
-        {
-            "name":"Minimal",
-            "preview_url":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/minimal/121.png",
-            "preview_thumbnail_url":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/minimal/121.png"
-        },
-        {
-            "name":"Space",
-            "preview_url":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/space/141.jpg",
-            "preview_thumbnail_url":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/space/141.jpg"
-        },
-        {
-            "name":"Sport",
-            "preview_url":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/sport/161.jpg",
-            "preview_thumbnail_url":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/sport/161.jpg"
         }
     ],
     "Wallpapers":[
-        {
-            "name":"Abstract 1",
-            "author":"Someone",
-            "url":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/abstract/1.jpg",
-            "collections":"featured,abstract"
-        },
-        {
-            "name":"Abstract 2",
-            "author":"Someone",
-            "url":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/abstract/2.jpg",
-            "dimensions":"3200x2560",
-            "collections":"abstract"
-        },
-        {
-            "author":"Someone",
-            "url":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/abstract/3.jpg",
-            "name":"Abstract 3",
-            "dimensions":"3200x2560",
-            "copyright":"Credits to its creator",
-            "collections":"abstract"
-        },
-        {
-            "name":"Abstract 4",
-            "author":"Someone",
-            "url":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/abstract/4.jpg",
-            "thumbnail":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/abstract/4.jpg",
-            "dimensions":"3200x2560",
-            "copyright":"Free (do whatever you want)",
-            "collections":"abstract"
-        },
-        {
-            "name":"Abstract 5",
-            "author":"Someone",
-            "url":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/abstract/5.jpg",
-            "thumbnail":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/abstract/5.jpg",
-            "dimensions":"3200x2560",
-            "copyright":"Free (do whatever you want)",
-            "collections":"abstract"
-        },
-        {
-            "name":"Abstract 6",
-            "author":"Someone",
-            "url":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/abstract/6.jpg",
-            "thumbnail":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/abstract/6.jpg",
-            "dimensions":"3200x2560",
-            "copyright":"Free (do whatever you want)",
-            "collections":"abstract"
-        },
-        {
-            "name":"Abstract 7",
-            "author":"Someone",
-            "url":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/abstract/7.jpg",
-            "thumbnail":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/abstract/7.jpg",
-            "dimensions":"3200x2560",
-            "copyright":"Free (do whatever you want)",
-            "collections":"abstract"
-        },
-        {
-            "name":"Abstract 8",
-            "author":"Someone",
-            "url":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/abstract/8.jpg",
-            "thumbnail":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/abstract/8.jpg",
-            "dimensions":"3200x2560",
-            "copyright":"Free (do whatever you want)",
-            "collections":"abstract"
-        },
-        {
-            "name":"Abstract 9",
-            "author":"Someone",
-            "url":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/abstract/9.jpg",
-            "thumbnail":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/abstract/9.jpg",
-            "dimensions":"3200x2560",
-            "copyright":"Free (do whatever you want)",
-            "collections":"abstract"
-        },
-        {
-            "name":"Abstract 10",
-            "author":"Someone",
-            "url":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/abstract/10.jpg",
-            "thumbnail":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/abstract/10.jpg",
-            "dimensions":"3200x2560",
-            "copyright":"Free (do whatever you want)",
-            "collections":"abstract"
-        },
-        {
-            "name":"Abstract 11",
-            "author":"Someone",
-            "url":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/abstract/11.jpg",
-            "thumbnail":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/abstract/11.jpg",
-            "dimensions":"3200x2560",
-            "copyright":"Free (do whatever you want)",
-            "collections":"abstract"
-        },
-        {
-            "name":"Abstract 12",
-            "author":"Someone",
-            "url":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/abstract/12.jpg",
-            "thumbnail":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/abstract/12.jpg",
-            "dimensions":"3200x2560",
-            "copyright":"Free (do whatever you want)",
-            "collections":"abstract"
-        },
-        {
-            "name":"Abstract 13",
-            "author":"Someone",
-            "url":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/abstract/13.jpg",
-            "thumbnail":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/abstract/13.jpg",
-            "dimensions":"3200x2560",
-            "copyright":"Free (do whatever you want)",
-            "collections":"abstract"
-        },
-        {
-            "name":"Abstract 14",
-            "author":"Someone",
-            "url":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/abstract/14.jpg",
-            "thumbnail":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/abstract/14.jpg",
-            "dimensions":"3200x2560",
-            "copyright":"Free (do whatever you want)",
-            "collections":"abstract"
-        },
-        {
-            "name":"Abstract 15",
-            "author":"Someone",
-            "url":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/abstract/15.jpg",
-            "thumbnail":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/abstract/15.jpg",
-            "dimensions":"3200x2560",
-            "copyright":"Free (do whatever you want)",
-            "collections":"abstract"
-        },
-        {
-            "name":"Abstract 16",
-            "author":"Someone",
-            "url":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/abstract/16.jpg",
-            "thumbnail":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/abstract/16.jpg",
-            "dimensions":"3200x2560",
-            "copyright":"Free (do whatever you want)",
-            "collections":"abstract"
-        },
-        {
-            "name":"Abstract 17",
-            "author":"Someone",
-            "url":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/abstract/17.jpg",
-            "thumbnail":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/abstract/17.jpg",
-            "dimensions":"3200x2560",
-            "copyright":"Free (do whatever you want)",
-            "collections":"abstract"
-		},
-        {
-            "name":"Abstract 18",
-            "author":"Someone",
-            "url":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/abstract/18.jpg",
-            "thumbnail":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/abstract/18.jpg",
-            "dimensions":"3200x2560",
-            "copyright":"Free (do whatever you want)",
-            "collections":"abstract"
-        },
-        {
-            "name":"Abstract 19",
-            "author":"Someone",
-            "url":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/abstract/19.jpg",
-            "thumbnail":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/abstract/19.jpg",
-            "dimensions":"3200x2560",
-            "copyright":"Free (do whatever you want)",
-            "collections":"abstract"
-        },
-        {
-            "name":"Abstract 20",
-            "author":"Someone",
-            "url":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/abstract/20.jpg",
-            "thumbnail":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/abstract/20.jpg",
-            "dimensions":"3200x2560",
-            "copyright":"Free (do whatever you want)",
-            "collections":"abstract"
-        },
-        {
-            "name":"Anime 21",
-            "author":"Someone",
-            "url":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/anime/21.jpg",
-            "thumbnail":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/anime/21.jpg",
-            "dimensions":"3200x2560",
-            "copyright":"Free (do whatever you want)",
-            "collections":"featured,anime"
-        },
-        {
-            "name":"Anime 22",
-            "author":"Someone",
-            "url":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/anime/22.jpg",
-            "thumbnail":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/anime/22.jpg",
-            "dimensions":"3200x2560",
-            "copyright":"Free (do whatever you want)",
-            "collections":"anime"
-        },
-        {
-            "name":"Anime 23",
-            "author":"Someone",
-            "url":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/anime/23.jpg",
-            "thumbnail":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/anime/23.jpg",
-            "dimensions":"3200x2560",
-            "copyright":"Free (do whatever you want)",
-            "collections":"anime"
-        },
-        {
-            "name":"Anime 24",
-            "author":"Someone",
-            "url":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/anime/24.jpg",
-            "thumbnail":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/anime/24.jpg",
-            "dimensions":"3200x2560",
-            "copyright":"Free (do whatever you want)",
-            "collections":"anime"
-        },
-        {
-            "name":"Anime 25",
-            "author":"Someone",
-            "url":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/anime/25.jpg",
-            "thumbnail":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/anime/25.jpg",
-            "dimensions":"3200x2560",
-            "copyright":"Free (do whatever you want)",
-            "collections":"anime"
-        },
-        {
-            "name":"Anime 26",
-            "author":"Someone",
-            "url":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/anime/26.jpg",
-            "thumbnail":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/anime/26.jpg",
-            "dimensions":"3200x2560",
-            "copyright":"Free (do whatever you want)",
-            "collections":"anime"
-        },
-        {
-            "name":"Anime 27",
-            "author":"Someone",
-            "url":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/anime/27.jpg",
-            "thumbnail":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/anime/27.jpg",
-            "dimensions":"3200x2560",
-            "copyright":"Free (do whatever you want)",
-            "collections":"anime"
-        },
-        {
-            "name":"Anime 28",
-            "author":"Someone",
-            "url":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/anime/28.jpg",
-            "thumbnail":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/anime/28.jpg",
-            "dimensions":"3200x2560",
-            "copyright":"Free (do whatever you want)",
-            "collections":"anime"
-        },
-        {
-            "name":"Anime 29",
-            "author":"Someone",
-            "url":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/anime/29.jpg",
-            "thumbnail":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/anime/29.jpg",
-            "dimensions":"3200x2560",
-            "copyright":"Free (do whatever you want)",
-            "collections":"anime"
-        },
-        {
-            "name":"Anime 30",
-            "author":"Someone",
-            "url":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/anime/30.jpg",
-            "thumbnail":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/anime/30.jpg",
-            "dimensions":"3200x2560",
-            "copyright":"Free (do whatever you want)",
-            "collections":"anime"
-        },
-        {
-            "name":"Anime 31",
-            "author":"Someone",
-            "url":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/anime/31.jpg",
-            "thumbnail":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/anime/31.jpg",
-            "dimensions":"3200x2560",
-            "copyright":"Free (do whatever you want)",
-            "collections":"anime"
-        },
-        {
-            "name":"Anime 32",
-            "author":"Someone",
-            "url":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/anime/32.jpg",
-            "thumbnail":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/anime/32.jpg",
-            "dimensions":"3200x2560",
-            "copyright":"Free (do whatever you want)",
-            "collections":"anime"
-        },
-        {
-            "name":"Anime 33",
-            "author":"Someone",
-            "url":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/anime/33.jpg",
-            "thumbnail":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/anime/33.jpg",
-            "dimensions":"3200x2560",
-            "copyright":"Free (do whatever you want)",
-            "collections":"anime"
-        },
-        {
-            "name":"Anime 34",
-            "author":"Someone",
-            "url":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/anime/34.jpg",
-            "thumbnail":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/anime/34.jpg",
-            "dimensions":"3200x2560",
-            "copyright":"Free (do whatever you want)",
-            "collections":"anime"
-        },
-        {
-            "name":"Anime 35",
-            "author":"Someone",
-            "url":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/anime/35.jpg",
-            "thumbnail":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/anime/35.jpg",
-            "dimensions":"3200x2560",
-            "copyright":"Free (do whatever you want)",
-            "collections":"anime"
-        },
-        {
-            "name":"Anime 36",
-            "author":"Someone",
-            "url":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/anime/36.jpg",
-            "thumbnail":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/anime/36.jpg",
-            "dimensions":"3200x2560",
-            "copyright":"Free (do whatever you want)",
-            "collections":"anime"
-        },
-        {
-            "name":"Anime 37",
-            "author":"Someone",
-            "url":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/anime/37.jpg",
-            "thumbnail":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/anime/37.jpg",
-            "dimensions":"3200x2560",
-            "copyright":"Free (do whatever you want)",
-            "collections":"anime"
-        },
-        {
-            "name":"Anime 38",
-            "author":"Someone",
-            "url":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/anime/38.jpg",
-            "thumbnail":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/anime/38.jpg",
-            "dimensions":"3200x2560",
-            "copyright":"Free (do whatever you want)",
-            "collections":"anime"
-        },
-        {
-            "name":"Anime 39",
-            "author":"Someone",
-            "url":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/anime/39.jpg",
-            "thumbnail":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/anime/39.jpg",
-            "dimensions":"3200x2560",
-            "copyright":"Free (do whatever you want)",
-            "collections":"anime"
-        },
-        {
-            "name":"Anime 40",
-            "author":"Someone",
-            "url":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/anime/40.jpg",
-            "thumbnail":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/anime/40.jpg",
-            "dimensions":"3200x2560",
-            "copyright":"Free (do whatever you want)",
-            "collections":"anime"
-        },
-        {
-            "name":"Cars 41",
-            "author":"Someone",
-            "url":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/cars/41.jpg",
-            "thumbnail":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/cars/41.jpg",
-            "dimensions":"3200x2560",
-            "copyright":"Free (do whatever you want)",
-            "collections":"featured,cars"
-        },
-        {
-            "name":"Cars 42",
-            "author":"Someone",
-            "url":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/cars/42.jpg",
-            "thumbnail":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/cars/42.jpg",
-            "dimensions":"3200x2560",
-            "copyright":"Free (do whatever you want)",
-            "collections":"cars"
-        },
-        {
-            "name":"Cars 43",
-            "author":"Someone",
-            "url":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/cars/43.jpg",
-            "thumbnail":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/cars/43.jpg",
-            "dimensions":"3200x2560",
-            "copyright":"Free (do whatever you want)",
-            "collections":"cars"
-        },
-        {
-            "name":"Cars 44",
-            "author":"Someone",
-            "url":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/cars/44.jpg",
-            "thumbnail":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/cars/44.jpg",
-            "dimensions":"3200x2560",
-            "copyright":"Free (do whatever you want)",
-            "collections":"cars"
-        },
-        {
-            "name":"Cars 45",
-            "author":"Someone",
-            "url":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/cars/45.jpg",
-            "thumbnail":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/cars/45.jpg",
-            "dimensions":"3200x2560",
-            "copyright":"Free (do whatever you want)",
-            "collections":"cars"
-        },
-        {
-            "name":"Cars 46",
-            "author":"Someone",
-            "url":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/cars/46.jpg",
-            "thumbnail":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/cars/46.jpg",
-            "dimensions":"3200x2560",
-            "copyright":"Free (do whatever you want)",
-            "collections":"cars"
-        },
-        {
-            "name":"Cars 47",
-            "author":"Someone",
-            "url":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/cars/47.jpg",
-            "thumbnail":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/cars/47.jpg",
-            "dimensions":"3200x2560",
-            "copyright":"Free (do whatever you want)",
-            "collections":"cars"
-        },
-        {
-            "name":"Cars 48",
-            "author":"Someone",
-            "url":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/cars/48.jpg",
-            "thumbnail":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/cars/48.jpg",
-            "dimensions":"3200x2560",
-            "copyright":"Free (do whatever you want)",
-            "collections":"cars"
-        },
-        {
-            "name":"Cars 49",
-            "author":"Someone",
-            "url":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/cars/49.jpg",
-            "thumbnail":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/cars/49.jpg",
-            "dimensions":"3200x2560",
-            "copyright":"Free (do whatever you want)",
-            "collections":"cars"
-        },
-        {
-            "name":"Cars 50",
-            "author":"Someone",
-            "url":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/cars/50.jpg",
-            "thumbnail":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/cars/50.jpg",
-            "dimensions":"3200x2560",
-            "copyright":"Free (do whatever you want)",
-            "collections":"cars"
-        },
-        {
-            "name":"Cars 51",
-            "author":"Someone",
-            "url":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/cars/51.jpg",
-            "thumbnail":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/cars/51.jpg",
-            "dimensions":"3200x2560",
-            "copyright":"Free (do whatever you want)",
-            "collections":"cars"
-        },
-        {
-            "name":"Cars 52",
-            "author":"Someone",
-            "url":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/cars/52.jpg",
-            "thumbnail":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/cars/52.jpg",
-            "dimensions":"3200x2560",
-            "copyright":"Free (do whatever you want)",
-            "collections":"cars"
-        },
-        {
-            "name":"Cars 53",
-            "author":"Someone",
-            "url":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/cars/53.jpg",
-            "thumbnail":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/cars/53.jpg",
-            "dimensions":"3200x2560",
-            "copyright":"Free (do whatever you want)",
-            "collections":"cars"
-        },
-        {
-            "name":"Cars 54",
-            "author":"Someone",
-            "url":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/cars/54.jpg",
-            "thumbnail":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/cars/54.jpg",
-            "dimensions":"3200x2560",
-            "copyright":"Free (do whatever you want)",
-            "collections":"cars"
-        },
-        {
-            "name":"Cars 55",
-            "author":"Someone",
-            "url":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/cars/55.jpg",
-            "thumbnail":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/cars/55.jpg",
-            "dimensions":"3200x2560",
-            "copyright":"Free (do whatever you want)",
-            "collections":"cars"
-        },
-        {
-            "name":"Cars 56",
-            "author":"Someone",
-            "url":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/cars/56.jpg",
-            "thumbnail":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/cars/56.jpg",
-            "dimensions":"3200x2560",
-            "copyright":"Free (do whatever you want)",
-            "collections":"cars"
-        },
-        {
-            "name":"Cars 57",
-            "author":"Someone",
-            "url":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/cars/57.jpg",
-            "thumbnail":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/cars/57.jpg",
-            "dimensions":"3200x2560",
-            "copyright":"Free (do whatever you want)",
-            "collections":"cars"
-        },
-        {
-            "name":"Cars 58",
-            "author":"Someone",
-            "url":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/cars/58.jpg",
-            "thumbnail":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/cars/58.jpg",
-            "dimensions":"3200x2560",
-            "copyright":"Free (do whatever you want)",
-            "collections":"cars"
-        },
-        {
-            "name":"Cars 59",
-            "author":"Someone",
-            "url":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/cars/59.jpg",
-            "thumbnail":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/cars/59.jpg",
-            "dimensions":"3200x2560",
-            "copyright":"Free (do whatever you want)",
-            "collections":"cars"
-        },
-        {
-            "name":"Cars 60",
-            "author":"Someone",
-            "url":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/cars/60.jpg",
-            "thumbnail":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/cars/60.jpg",
-            "dimensions":"3200x2560",
-            "copyright":"Free (do whatever you want)",
-            "collections":"cars"
-        },
-        {
-            "name":"Earth 61",
-            "author":"Someone",
-            "url":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/earth/61.jpg",
-            "thumbnail":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/earth/61.jpg",
-            "dimensions":"3200x2560",
-            "copyright":"Free (do whatever you want)",
-            "collections":"featured,earth"
-        },
-        {
-            "name":"Earth 62",
-            "author":"Someone",
-            "url":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/earth/62.jpg",
-            "thumbnail":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/earth/62.jpg",
-            "dimensions":"3200x2560",
-            "copyright":"Free (do whatever you want)",
-            "collections":"earth"
-        },
-        {
-            "name":"Earth 63",
-            "author":"Someone",
-            "url":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/earth/63.jpg",
-            "thumbnail":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/earth/63.jpg",
-            "dimensions":"3200x2560",
-            "copyright":"Free (do whatever you want)",
-            "collections":"earth"
-        },
-        {
-            "name":"Earth 64",
-            "author":"Someone",
-            "url":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/earth/64.jpg",
-            "thumbnail":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/earth/64.jpg",
-            "dimensions":"3200x2560",
-            "copyright":"Free (do whatever you want)",
-            "collections":"earth"
-        },
-        {
-            "name":"Earth 65",
-            "author":"Someone",
-            "url":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/earth/65.jpg",
-            "thumbnail":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/earth/65.jpg",
-            "dimensions":"3200x2560",
-            "copyright":"Free (do whatever you want)",
-            "collections":"earth"
-        },
-        {
-            "name":"Earth 66",
-            "author":"Someone",
-            "url":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/earth/66.jpg",
-            "thumbnail":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/earth/66.jpg",
-            "dimensions":"3200x2560",
-            "copyright":"Free (do whatever you want)",
-            "collections":"earth"
-        },
-        {
-            "name":"Earth 67",
-            "author":"Someone",
-            "url":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/earth/67.jpg",
-            "thumbnail":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/earth/67.jpg",
-            "dimensions":"3200x2560",
-            "copyright":"Free (do whatever you want)",
-            "collections":"earth"
-        },
-        {
-            "name":"Earth 68",
-            "author":"Someone",
-            "url":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/earth/68.jpg",
-            "thumbnail":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/earth/68.jpg",
-            "dimensions":"3200x2560",
-            "copyright":"Free (do whatever you want)",
-            "collections":"earth"
-        },
-        {
-            "name":"Earth 69",
-            "author":"Someone",
-            "url":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/earth/69.jpg",
-            "thumbnail":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/earth/69.jpg",
-            "dimensions":"3200x2560",
-            "copyright":"Free (do whatever you want)",
-            "collections":"earth"
-        },
-        {
-            "name":"Earth 70",
-            "author":"Someone",
-            "url":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/earth/70.jpg",
-            "thumbnail":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/earth/70.jpg",
-            "dimensions":"3200x2560",
-            "copyright":"Free (do whatever you want)",
-            "collections":"earth"
-        },
-        {
-            "name":"Earth 71",
-            "author":"Someone",
-            "url":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/earth/71.jpg",
-            "thumbnail":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/earth/71.jpg",
-            "dimensions":"3200x2560",
-            "copyright":"Free (do whatever you want)",
-            "collections":"earth"
-        },
-        {
-            "name":"Earth 72",
-            "author":"Someone",
-            "url":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/earth/72.jpg",
-            "thumbnail":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/earth/72.jpg",
-            "dimensions":"3200x2560",
-            "copyright":"Free (do whatever you want)",
-            "collections":"earth"
-        },
-        {
-            "name":"Earth 73",
-            "author":"Someone",
-            "url":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/earth/73.jpg",
-            "thumbnail":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/earth/73.jpg",
-            "dimensions":"3200x2560",
-            "copyright":"Free (do whatever you want)",
-            "collections":"earth"
-        },
-        {
-            "name":"Earth 74",
-            "author":"Someone",
-            "url":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/earth/74.jpg",
-            "thumbnail":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/earth/74.jpg",
-            "dimensions":"3200x2560",
-            "copyright":"Free (do whatever you want)",
-            "collections":"earth"
-        },
-        {
-            "name":"Earth 75",
-            "author":"Someone",
-            "url":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/earth/75.jpg",
-            "thumbnail":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/earth/75.jpg",
-            "dimensions":"3200x2560",
-            "copyright":"Free (do whatever you want)",
-            "collections":"earth"
-        },
-        {
-            "name":"Earth 76",
-            "author":"Someone",
-            "url":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/earth/76.jpg",
-            "thumbnail":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/earth/69.jpg",
-            "dimensions":"3200x2560",
-            "copyright":"Free (do whatever you want)",
-            "collections":"earth"
-        },
-        {
-            "name":"Earth 77",
-            "author":"Someone",
-            "url":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/earth/77.jpg",
-            "thumbnail":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/earth/77.jpg",
-            "dimensions":"3200x2560",
-            "copyright":"Free (do whatever you want)",
-            "collections":"earth"
-        },
-        {
-            "name":"Earth 78",
-            "author":"Someone",
-            "url":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/earth/78.jpg",
-            "thumbnail":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/earth/78.jpg",
-            "dimensions":"3200x2560",
-            "copyright":"Free (do whatever you want)",
-            "collections":"earth"
-        },
-        {
-            "name":"Earth 79",
-            "author":"Someone",
-            "url":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/earth/79.jpg",
-            "thumbnail":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/earth/79.jpg",
-            "dimensions":"3200x2560",
-            "copyright":"Free (do whatever you want)",
-            "collections":"earth"
-        },
-        {
-            "name":"Earth 80",
-            "author":"Someone",
-            "url":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/earth/80.jpg",
-            "thumbnail":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/earth/80.jpg",
-            "dimensions":"3200x2560",
-            "copyright":"Free (do whatever you want)",
-            "collections":"earth"
-        },
-        {
-            "name":"Food 81",
-            "author":"Someone",
-            "url":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/Food/81.jpg",
-            "thumbnail":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/Food/81.jpg",
-            "dimensions":"3200x2560",
-            "copyright":"Free (do whatever you want)",
-            "collections":"featured,food"
-        },
-        {
-            "name":"Food 82",
-            "author":"Someone",
-            "url":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/Food/82.jpg",
-            "thumbnail":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/Food/82.jpg",
-            "dimensions":"3200x2560",
-            "copyright":"Free (do whatever you want)",
-            "collections":"food"
-        },
-        {
-            "name":"Food 83",
-            "author":"Someone",
-            "url":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/Food/83.jpg",
-            "thumbnail":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/Food/83.jpg",
-            "dimensions":"3200x2560",
-            "copyright":"Free (do whatever you want)",
-            "collections":"food"
-        },
-        {
-            "name":"Food 84",
-            "author":"Someone",
-            "url":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/Food/84.jpg",
-            "thumbnail":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/Food/84.jpg",
-            "dimensions":"3200x2560",
-            "copyright":"Free (do whatever you want)",
-            "collections":"food"
-        },
-        {
-            "name":"Food 85",
-            "author":"Someone",
-            "url":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/Food/85.jpg",
-            "thumbnail":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/Food/85.jpg",
-            "dimensions":"3200x2560",
-            "copyright":"Free (do whatever you want)",
-            "collections":"food"
-        },
-        {
-            "name":"Food 86",
-            "author":"Someone",
-            "url":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/Food/86.jpg",
-            "thumbnail":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/Food/86.jpg",
-            "dimensions":"3200x2560",
-            "copyright":"Free (do whatever you want)",
-            "collections":"food"
-        },
-        {
-            "name":"Food 87",
-            "author":"Someone",
-            "url":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/Food/87.jpg",
-            "thumbnail":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/Food/87.jpg",
-            "dimensions":"3200x2560",
-            "copyright":"Free (do whatever you want)",
-            "collections":"food"
-        },
-        {
-            "name":"Food 88",
-            "author":"Someone",
-            "url":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/Food/88.jpg",
-            "thumbnail":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/Food/88.jpg",
-            "dimensions":"3200x2560",
-            "copyright":"Free (do whatever you want)",
-            "collections":"food"
-        },
-        {
-            "name":"Food 89",
-            "author":"Someone",
-            "url":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/Food/89.jpg",
-            "thumbnail":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/Food/89.jpg",
-            "dimensions":"3200x2560",
-            "copyright":"Free (do whatever you want)",
-            "collections":"food"
-        },
-        {
-            "name":"Food 90",
-            "author":"Someone",
-            "url":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/Food/90.jpg",
-            "thumbnail":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/Food/90.jpg",
-            "dimensions":"3200x2560",
-            "copyright":"Free (do whatever you want)",
-            "collections":"food"
-        },
-        {
-            "name":"Food 91",
-            "author":"Someone",
-            "url":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/Food/91.jpg",
-            "thumbnail":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/Food/91.jpg",
-            "dimensions":"3200x2560",
-            "copyright":"Free (do whatever you want)",
-            "collections":"food"
-        },
-        {
-            "name":"Food 92",
-            "author":"Someone",
-            "url":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/Food/92.jpg",
-            "thumbnail":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/Food/92.jpg",
-            "dimensions":"3200x2560",
-            "copyright":"Free (do whatever you want)",
-            "collections":"food"
-        },
-        {
-            "name":"Food 93",
-            "author":"Someone",
-            "url":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/Food/93.jpg",
-            "thumbnail":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/Food/93.jpg",
-            "dimensions":"3200x2560",
-            "copyright":"Free (do whatever you want)",
-            "collections":"food"
-        },
-        {
-            "name":"Food 94",
-            "author":"Someone",
-            "url":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/Food/94.jpg",
-            "thumbnail":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/Food/94.jpg",
-            "dimensions":"3200x2560",
-            "copyright":"Free (do whatever you want)",
-            "collections":"food"
-        },
-        {
-            "name":"Food 95",
-            "author":"Someone",
-            "url":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/Food/95.jpg",
-            "thumbnail":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/Food/95.jpg",
-            "dimensions":"3200x2560",
-            "copyright":"Free (do whatever you want)",
-            "collections":"food"
-        },
-        {
-            "name":"Food 96",
-            "author":"Someone",
-            "url":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/Food/96.jpg",
-            "thumbnail":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/Food/96.jpg",
-            "dimensions":"3200x2560",
-            "copyright":"Free (do whatever you want)",
-            "collections":"food"
-        },
-        {
-            "name":"Food 97",
-            "author":"Someone",
-            "url":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/Food/97.jpg",
-            "thumbnail":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/Food/97.jpg",
-            "dimensions":"3200x2560",
-            "copyright":"Free (do whatever you want)",
-            "collections":"food"
-        },
-        {
-            "name":"Food 98",
-            "author":"Someone",
-            "url":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/Food/98.jpg",
-            "thumbnail":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/Food/98.jpg",
-            "dimensions":"3200x2560",
-            "copyright":"Free (do whatever you want)",
-            "collections":"food"
-        },
-        {
-            "name":"Food 99",
-            "author":"Someone",
-            "url":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/Food/99.jpg",
-            "thumbnail":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/Food/99.jpg",
-            "dimensions":"3200x2560",
-            "copyright":"Free (do whatever you want)",
-            "collections":"food"
-        },
-        {
-            "name":"Food 100",
-            "author":"Someone",
-            "url":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/Food/100.jpg",
-            "thumbnail":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/Food/100.jpg",
-            "dimensions":"3200x2560",
-            "copyright":"Free (do whatever you want)",
-            "collections":"food"
-        },
-        {
-            "name":"Girls 101",
-            "author":"Someone",
-            "url":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/Girls/101.jpg",
-            "thumbnail":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/Girls/101.jpg",
-            "dimensions":"3200x2560",
-            "copyright":"Free (do whatever you want)",
-            "collections":"featured,girls"
-        },
-        {
-            "name":"Girls 102",
-            "author":"Someone",
-            "url":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/Girls/102.jpg",
-            "thumbnail":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/Girls/102.jpg",
-            "dimensions":"3200x2560",
-            "copyright":"Free (do whatever you want)",
-            "collections":"girls"
-        },
-        {
-            "name":"Girls 103",
-            "author":"Someone",
-            "url":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/Girls/103.jpg",
-            "thumbnail":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/Girls/103.jpg",
-            "dimensions":"3200x2560",
-            "copyright":"Free (do whatever you want)",
-            "collections":"girls"
-        },
-        {
-            "name":"Girls 104",
-            "author":"Someone",
-            "url":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/Girls/104.jpg",
-            "thumbnail":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/Girls/104.jpg",
-            "dimensions":"3200x2560",
-            "copyright":"Free (do whatever you want)",
-            "collections":"girls"
-        },
-        {
-            "name":"Girls 105",
-            "author":"Someone",
-            "url":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/Girls/105.jpg",
-            "thumbnail":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/Girls/105.jpg",
-            "dimensions":"3200x2560",
-            "copyright":"Free (do whatever you want)",
-            "collections":"girls"
-        },
-        {
-            "name":"Girls 106",
-            "author":"Someone",
-            "url":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/Girls/106.jpg",
-            "thumbnail":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/Girls/106.jpg",
-            "dimensions":"3200x2560",
-            "copyright":"Free (do whatever you want)",
-            "collections":"girls"
-        },
-        {
-            "name":"Girls 107",
-            "author":"Someone",
-            "url":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/Girls/107.jpg",
-            "thumbnail":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/Girls/107.jpg",
-            "dimensions":"3200x2560",
-            "copyright":"Free (do whatever you want)",
-            "collections":"girls"
-        },
-        {
-            "name":"Girls 108",
-            "author":"Someone",
-            "url":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/Girls/108.jpg",
-            "thumbnail":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/Girls/108.jpg",
-            "dimensions":"3200x2560",
-            "copyright":"Free (do whatever you want)",
-            "collections":"girls"
-        },
-        {
-            "name":"Girls 109",
-            "author":"Someone",
-            "url":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/Girls/109.jpg",
-            "thumbnail":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/Girls/109.jpg",
-            "dimensions":"3200x2560",
-            "copyright":"Free (do whatever you want)",
-            "collections":"girls"
-        },
-        {
-            "name":"Girls 110",
-            "author":"Someone",
-            "url":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/Girls/110.jpg",
-            "thumbnail":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/Girls/110.jpg",
-            "dimensions":"3200x2560",
-            "copyright":"Free (do whatever you want)",
-            "collections":"girls"
-        },
-        {
-            "name":"Girls 111",
-            "author":"Someone",
-            "url":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/Girls/111.jpg",
-            "thumbnail":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/Girls/111.jpg",
-            "dimensions":"3200x2560",
-            "copyright":"Free (do whatever you want)",
-            "collections":"girls"
-        },
-        {
-            "name":"Girls 112",
-            "author":"Someone",
-            "url":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/Girls/112.jpg",
-            "thumbnail":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/Girls/112.jpg",
-            "dimensions":"3200x2560",
-            "copyright":"Free (do whatever you want)",
-            "collections":"girls"
-        },
-        {
-            "name":"Girls 113",
-            "author":"Someone",
-            "url":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/Girls/113.jpg",
-            "thumbnail":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/Girls/113.jpg",
-            "dimensions":"3200x2560",
-            "copyright":"Free (do whatever you want)",
-            "collections":"girls"
-        },
-        {
-            "name":"Girls 114",
-            "author":"Someone",
-            "url":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/Girls/114.jpg",
-            "thumbnail":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/Girls/114.jpg",
-            "dimensions":"3200x2560",
-            "copyright":"Free (do whatever you want)",
-            "collections":"girls"
-        },
-        {
-            "name":"Girls 115",
-            "author":"Someone",
-            "url":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/Girls/115.jpg",
-            "thumbnail":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/Girls/115.jpg",
-            "dimensions":"3200x2560",
-            "copyright":"Free (do whatever you want)",
-            "collections":"girls"
-        },
-        {
-            "name":"Girls 116",
-            "author":"Someone",
-            "url":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/Girls/116.jpg",
-            "thumbnail":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/Girls/116.jpg",
-            "dimensions":"3200x2560",
-            "copyright":"Free (do whatever you want)",
-            "collections":"girls"
-        },
-        {
-            "name":"Girls 117",
-            "author":"Someone",
-            "url":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/Girls/117.jpg",
-            "thumbnail":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/Girls/117.jpg",
-            "dimensions":"3200x2560",
-            "copyright":"Free (do whatever you want)",
-            "collections":"girls"
-        },
-        {
-            "name":"Girls 118",
-            "author":"Someone",
-            "url":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/Girls/118.jpg",
-            "thumbnail":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/Girls/118.jpg",
-            "dimensions":"3200x2560",
-            "copyright":"Free (do whatever you want)",
-            "collections":"girls"
-        },
-        {
-            "name":"Girls 119",
-            "author":"Someone",
-            "url":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/Girls/119.jpg",
-            "thumbnail":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/Girls/119.jpg",
-            "dimensions":"3200x2560",
-            "copyright":"Free (do whatever you want)",
-            "collections":"girls"
-        },
-        {
-            "name":"Girls 120",
-            "author":"Someone",
-            "url":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/Girls/120.jpeg",
-            "thumbnail":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/Girls/120.jpeg",
-            "dimensions":"3200x2560",
-            "copyright":"Free (do whatever you want)",
-            "collections":"girls"
-        },
-        {
-            "name":"Minimal 121",
-            "author":"Someone",
-            "url":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/minimal/121.png",
-            "thumbnail":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/minimal/121.png",
-            "dimensions":"3200x2560",
-            "copyright":"Free (do whatever you want)",
-            "collections":"featured,minimal"
-        },
-        {
-            "name":"Minimal 122",
-            "author":"Someone",
-            "url":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/minimal/122.png",
-            "thumbnail":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/minimal/122.png",
-            "dimensions":"3200x2560",
-            "copyright":"Free (do whatever you want)",
-            "collections":"minimal"
-        },
-        {
-            "name":"Minimal 123",
-            "author":"Someone",
-            "url":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/minimal/123.png",
-            "thumbnail":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/minimal/123.png",
-            "dimensions":"3200x2560",
-            "copyright":"Free (do whatever you want)",
-            "collections":"minimal"
-        },
-        {
-            "name":"Minimal 124",
-            "author":"Someone",
-            "url":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/minimal/124.png",
-            "thumbnail":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/minimal/124.png",
-            "dimensions":"3200x2560",
-            "copyright":"Free (do whatever you want)",
-            "collections":"minimal"
-        },
-        {
-            "name":"Minimal 125",
-            "author":"Someone",
-            "url":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/minimal/125.png",
-            "thumbnail":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/minimal/125.png",
-            "dimensions":"3200x2560",
-            "copyright":"Free (do whatever you want)",
-            "collections":"minimal"
-        },
-        {
-            "name":"Minimal 126",
-            "author":"Someone",
-            "url":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/minimal/126.png",
-            "thumbnail":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/minimal/126.png",
-            "dimensions":"3200x2560",
-            "copyright":"Free (do whatever you want)",
-            "collections":"minimal"
-        },
-        {
-            "name":"Minimal 127",
-            "author":"Someone",
-            "url":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/minimal/127.png",
-            "thumbnail":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/minimal/127.png",
-            "dimensions":"3200x2560",
-            "copyright":"Free (do whatever you want)",
-            "collections":"minimal"
-        },
-        {
-            "name":"Minimal 128",
-            "author":"Someone",
-            "url":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/minimal/128.jpg",
-            "thumbnail":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/minimal/128.jpg",
-            "dimensions":"3200x2560",
-            "copyright":"Free (do whatever you want)",
-            "collections":"minimal"
-        },
-        {
-            "name":"Minimal 129",
-            "author":"Someone",
-            "url":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/minimal/129.png",
-            "thumbnail":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/minimal/129.png",
-            "dimensions":"3200x2560",
-            "copyright":"Free (do whatever you want)",
-            "collections":"minimal"
-        },
-        {
-            "name":"Minimal 130",
-            "author":"Someone",
-            "url":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/minimal/130.png",
-            "thumbnail":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/minimal/130.png",
-            "dimensions":"3200x2560",
-            "copyright":"Free (do whatever you want)",
-            "collections":"minimal"
-        },
-        {
-            "name":"Minimal 131",
-            "author":"Someone",
-            "url":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/minimal/131.jpg",
-            "thumbnail":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/minimal/131.jpg",
-            "dimensions":"3200x2560",
-            "copyright":"Free (do whatever you want)",
-            "collections":"minimal"
-        },
-        {
-            "name":"Minimal 132",
-            "author":"Someone",
-            "url":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/minimal/132.jpg",
-            "thumbnail":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/minimal/132.jpg",
-            "dimensions":"3200x2560",
-            "copyright":"Free (do whatever you want)",
-            "collections":"minimal"
-        },
-        {
-            "name":"Minimal 133",
-            "author":"Someone",
-            "url":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/minimal/133.png",
-            "thumbnail":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/minimal/133.png",
-            "dimensions":"3200x2560",
-            "copyright":"Free (do whatever you want)",
-            "collections":"minimal"
-        },
-        {
-            "name":"Minimal 134",
-            "author":"Someone",
-            "url":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/minimal/134.jpg",
-            "thumbnail":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/minimal/134.jpg",
-            "dimensions":"3200x2560",
-            "copyright":"Free (do whatever you want)",
-            "collections":"minimal"
-        },
-        {
-            "name":"Minimal 135",
-            "author":"Someone",
-            "url":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/minimal/135.png",
-            "thumbnail":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/minimal/135.png",
-            "dimensions":"3200x2560",
-            "copyright":"Free (do whatever you want)",
-            "collections":"minimal"
-        },
-        {
-            "name":"Minimal 136",
-            "author":"Someone",
-            "url":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/minimal/136.jpg",
-            "thumbnail":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/minimal/136.jpg",
-            "dimensions":"3200x2560",
-            "copyright":"Free (do whatever you want)",
-            "collections":"minimal"
-        },
-        {
-            "name":"Minimal 137",
-            "author":"Someone",
-            "url":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/minimal/137.png",
-            "thumbnail":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/minimal/137.png",
-            "dimensions":"3200x2560",
-            "copyright":"Free (do whatever you want)",
-            "collections":"minimal"
-        },
-        {
-            "name":"Minimal 138",
-            "author":"Someone",
-            "url":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/minimal/138.jpg",
-            "thumbnail":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/minimal/138.jpg",
-            "dimensions":"3200x2560",
-            "copyright":"Free (do whatever you want)",
-            "collections":"minimal"
-        },
-        {
-            "name":"Minimal 139",
-            "author":"Someone",
-            "url":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/minimal/139.jpg",
-            "thumbnail":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/minimal/139.jpg",
-            "dimensions":"3200x2560",
-            "copyright":"Free (do whatever you want)",
-            "collections":"minimal"
-        },
-        {
-            "name":"Minimal 140",
-            "author":"Someone",
-            "url":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/minimal/140.png",
-            "thumbnail":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/minimal/140.png",
-            "dimensions":"3200x2560",
-            "copyright":"Free (do whatever you want)",
-            "collections":"minimal"
-        },
-        {
-            "name":"Space 141",
-            "author":"Someone",
-            "url":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/space/141.jpg",
-            "thumbnail":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/space/141.jpg",
-            "dimensions":"3200x2560",
-            "copyright":"Free (do whatever you want)",
-            "collections":"featured,space"
-        },
-        {
-            "name":"Space 142",
-            "author":"Someone",
-            "url":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/space/142.jpg",
-            "thumbnail":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/space/142.jpg",
-            "dimensions":"3200x2560",
-            "copyright":"Free (do whatever you want)",
-            "collections":"space"
-        },
-        {
-            "name":"Space 143",
-            "author":"Someone",
-            "url":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/space/143.jpg",
-            "thumbnail":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/space/143.jpg",
-            "dimensions":"3200x2560",
-            "copyright":"Free (do whatever you want)",
-            "collections":"space"
-        },
-        {
-            "name":"Space 144",
-            "author":"Someone",
-            "url":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/space/144.jpg",
-            "thumbnail":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/space/144.jpg",
-            "dimensions":"3200x2560",
-            "copyright":"Free (do whatever you want)",
-            "collections":"space"
-        },
-        {
-            "name":"Space 145",
-            "author":"Someone",
-            "url":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/space/145.jpg",
-            "thumbnail":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/space/145.jpg",
-            "dimensions":"3200x2560",
-            "copyright":"Free (do whatever you want)",
-            "collections":"space"
-        },
-        {
-            "name":"Space 146",
-            "author":"Someone",
-            "url":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/space/146.jpg",
-            "thumbnail":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/space/146.jpg",
-            "dimensions":"3200x2560",
-            "copyright":"Free (do whatever you want)",
-            "collections":"space"
-        },
-        {
-            "name":"Space 147",
-            "author":"Someone",
-            "url":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/space/147.jpg",
-            "thumbnail":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/space/147.jpg",
-            "dimensions":"3200x2560",
-            "copyright":"Free (do whatever you want)",
-            "collections":"space"
-        },
-        {
-            "name":"Space 148",
-            "author":"Someone",
-            "url":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/space/148.jpg",
-            "thumbnail":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/space/148.jpg",
-            "dimensions":"3200x2560",
-            "copyright":"Free (do whatever you want)",
-            "collections":"space"
-        },
-        {
-            "name":"Space 149",
-            "author":"Someone",
-            "url":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/space/149.jpg",
-            "thumbnail":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/space/149.jpg",
-            "dimensions":"3200x2560",
-            "copyright":"Free (do whatever you want)",
-            "collections":"space"
-        },
-        {
-            "name":"Space 150",
-            "author":"Someone",
-            "url":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/space/150.jpg",
-            "thumbnail":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/space/150.jpg",
-            "dimensions":"3200x2560",
-            "copyright":"Free (do whatever you want)",
-            "collections":"space"
-        },
-        {
-            "name":"Space 151",
-            "author":"Someone",
-            "url":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/space/151.jpg",
-            "thumbnail":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/space/151.jpg",
-            "dimensions":"3200x2560",
-            "copyright":"Free (do whatever you want)",
-            "collections":"space"
-        },
-        {
-            "name":"Space 152",
-            "author":"Someone",
-            "url":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/space/152.jpg",
-            "thumbnail":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/space/152.jpg",
-            "dimensions":"3200x2560",
-            "copyright":"Free (do whatever you want)",
-            "collections":"space"
-        },
-        {
-            "name":"Space 153",
-            "author":"Someone",
-            "url":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/space/153.jpg",
-            "thumbnail":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/space/153.jpg",
-            "dimensions":"3200x2560",
-            "copyright":"Free (do whatever you want)",
-            "collections":"space"
-        },
-        {
-            "name":"Space 154",
-            "author":"Someone",
-            "url":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/space/154.jpg",
-            "thumbnail":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/space/154.jpg",
-            "dimensions":"3200x2560",
-            "copyright":"Free (do whatever you want)",
-            "collections":"space"
-        },
-        {
-            "name":"Space 155",
-            "author":"Someone",
-            "url":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/space/155.jpg",
-            "thumbnail":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/space/155.jpg",
-            "dimensions":"3200x2560",
-            "copyright":"Free (do whatever you want)",
-            "collections":"space"
-        },
-        {
-            "name":"Space 156",
-            "author":"Someone",
-            "url":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/space/156.jpg",
-            "thumbnail":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/space/156.jpg",
-            "dimensions":"3200x2560",
-            "copyright":"Free (do whatever you want)",
-            "collections":"space"
-        },
-        {
-            "name":"Space 157",
-            "author":"Someone",
-            "url":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/space/157.jpg",
-            "thumbnail":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/space/157.jpg",
-            "dimensions":"3200x2560",
-            "copyright":"Free (do whatever you want)",
-            "collections":"space"
-        },
-        {
-            "name":"Space 158",
-            "author":"Someone",
-            "url":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/space/158.jpg",
-            "thumbnail":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/space/158.jpg",
-            "dimensions":"3200x2560",
-            "copyright":"Free (do whatever you want)",
-            "collections":"space"
-        },
-        {
-            "name":"Space 159",
-            "author":"Someone",
-            "url":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/space/159.jpg",
-            "thumbnail":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/space/159.jpg",
-            "dimensions":"3200x2560",
-            "copyright":"Free (do whatever you want)",
-            "collections":"space"
-        },
-        {
-            "name":"Space 160",
-            "author":"Someone",
-            "url":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/space/160.jpg",
-            "thumbnail":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/space/160.jpg",
-            "dimensions":"3200x2560",
-            "copyright":"Free (do whatever you want)",
-            "collections":"space"
-        },
-        {
-            "name":"Sport 161",
-            "author":"Someone",
-            "url":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/sport/161.jpg",
-            "thumbnail":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/sport/161.jpg",
-            "dimensions":"3200x2560",
-            "copyright":"Free (do whatever you want)",
-            "collections":"featured,sport"
-        },
-        {
-            "name":"Sport 162",
-            "author":"Someone",
-            "url":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/sport/162.jpg",
-            "thumbnail":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/sport/162.jpg",
-            "dimensions":"3200x2560",
-            "copyright":"Free (do whatever you want)",
-            "collections":"sport"
-        },
-        {
-            "name":"Sport 163",
-            "author":"Someone",
-            "url":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/sport/163.jpg",
-            "thumbnail":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/sport/163.jpg",
-            "dimensions":"3200x2560",
-            "copyright":"Free (do whatever you want)",
-            "collections":"sport"
-        },
-        {
-            "name":"Sport 164",
-            "author":"Someone",
-            "url":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/sport/164.jpg",
-            "thumbnail":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/sport/164.jpg",
-            "dimensions":"3200x2560",
-            "copyright":"Free (do whatever you want)",
-            "collections":"sport"
-        },
-        {
-            "name":"Sport 165",
-            "author":"Someone",
-            "url":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/sport/165.jpg",
-            "thumbnail":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/sport/165.jpg",
-            "dimensions":"3200x2560",
-            "copyright":"Free (do whatever you want)",
-            "collections":"sport"
-        },
-        {
-            "name":"Sport 166",
-            "author":"Someone",
-            "url":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/sport/166.jpg",
-            "thumbnail":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/sport/166.jpg",
-            "dimensions":"3200x2560",
-            "copyright":"Free (do whatever you want)",
-            "collections":"sport"
-        },
-        {
-            "name":"Sport 167",
-            "author":"Someone",
-            "url":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/sport/167.jpg",
-            "thumbnail":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/sport/167.jpg",
-            "dimensions":"3200x2560",
-            "copyright":"Free (do whatever you want)",
-            "collections":"sport"
-        },
-        {
-            "name":"Sport 168",
-            "author":"Someone",
-            "url":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/sport/168.jpg",
-            "thumbnail":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/sport/168.jpg",
-            "dimensions":"3200x2560",
-            "copyright":"Free (do whatever you want)",
-            "collections":"sport"
-        },
-        {
-            "name":"Sport 169",
-            "author":"Someone",
-            "url":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/sport/169.jpg",
-            "thumbnail":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/sport/169.jpg",
-            "dimensions":"3200x2560",
-            "copyright":"Free (do whatever you want)",
-            "collections":"sport"
-        },
-        {
-            "name":"Sport 170",
-            "author":"Someone",
-            "url":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/sport/170.jpg",
-            "thumbnail":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/sport/170.jpg",
-            "dimensions":"3200x2560",
-            "copyright":"Free (do whatever you want)",
-            "collections":"sport"
-        },
-        {
-            "name":"Sport 171",
-            "author":"Someone",
-            "url":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/sport/171.jpg",
-            "thumbnail":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/sport/171.jpg",
-            "dimensions":"3200x2560",
-            "copyright":"Free (do whatever you want)",
-            "collections":"sport"
-        },
-        {
-            "name":"Sport 172",
-            "author":"Someone",
-            "url":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/sport/172.jpg",
-            "thumbnail":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/sport/172.jpg",
-            "dimensions":"3200x2560",
-            "copyright":"Free (do whatever you want)",
-            "collections":"sport"
-        },
-        {
-            "name":"Sport 173",
-            "author":"Someone",
-            "url":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/sport/173.jpg",
-            "thumbnail":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/sport/173.jpg",
-            "dimensions":"3200x2560",
-            "copyright":"Free (do whatever you want)",
-            "collections":"sport"
-        },
-        {
-            "name":"Sport 174",
-            "author":"Someone",
-            "url":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/sport/174.jpg",
-            "thumbnail":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/sport/174.jpg",
-            "dimensions":"3200x2560",
-            "copyright":"Free (do whatever you want)",
-            "collections":"sport"
-        },
-        {
-            "name":"Sport 175",
-            "author":"Someone",
-            "url":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/sport/175.jpg",
-            "thumbnail":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/sport/175.jpg",
-            "dimensions":"3200x2560",
-            "copyright":"Free (do whatever you want)",
-            "collections":"sport"
-        },
-        {
-            "name":"Sport 176",
-            "author":"Someone",
-            "url":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/sport/176.jpg",
-            "thumbnail":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/sport/176.jpg",
-            "dimensions":"3200x2560",
-            "copyright":"Free (do whatever you want)",
-            "collections":"sport"
-        },
-        {
-            "name":"Sport 177",
-            "author":"Someone",
-            "url":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/sport/177.jpg",
-            "thumbnail":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/sport/177.jpg",
-            "dimensions":"3200x2560",
-            "copyright":"Free (do whatever you want)",
-            "collections":"sport"
-        },
-        {
-            "name":"Sport 178",
-            "author":"Someone",
-            "url":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/sport/178.jpg",
-            "thumbnail":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/sport/178.jpg",
-            "dimensions":"3200x2560",
-            "copyright":"Free (do whatever you want)",
-            "collections":"sport"
-        },
-        {
-            "name":"Sport 179",
-            "author":"Someone",
-            "url":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/sport/179.jpg",
-            "thumbnail":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/sport/179.jpg",
-            "dimensions":"3200x2560",
-            "copyright":"Free (do whatever you want)",
-            "collections":"sport"
-        },
-        {
-            "name":"Sport 180",
-            "author":"Someone",
-            "url":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/sport/180.jpg",
-            "thumbnail":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/sport/180.jpg",
-            "dimensions":"3200x2560",
-            "copyright":"Free (do whatever you want)",
-            "collections":"sport"
-        },
-        {
-            "name":"Material Design 181",
-            "author":"Axinen",
-            "url":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/materialdesign/181.png",
-            "thumbnail":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/materialdesign/181.png",
-            "dimensions":"3200x2560",
-            "copyright":"Free (do whatever you want)",
-            "collections":"featured,material design"
-        },
-        {
-            "name":"Material Design 182",
-            "author":"Axinen",
-            "url":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/materialdesign/182.png",
-            "thumbnail":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/materialdesign/182.png",
-            "dimensions":"3200x2560",
-            "copyright":"Free (do whatever you want)",
-            "collections":"material design"
-        },
-        {
-            "name":"Material Design 183",
-            "author":"Axinen",
-            "url":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/materialdesign/183.png",
-            "thumbnail":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/materialdesign/183.png",
-            "dimensions":"3200x2560",
-            "copyright":"Free (do whatever you want)",
-            "collections":"material design"
-        },
-        {
-            "name":"Material Design 184",
-            "author":"Axinen",
-            "url":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/materialdesign/184.png",
-            "thumbnail":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/materialdesign/184.png",
-            "dimensions":"3200x2560",
-            "copyright":"Free (do whatever you want)",
-            "collections":"material design"
-        },
-        {
-            "name":"Material Design 185",
-            "author":"Axinen",
-            "url":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/materialdesign/185.png",
-            "thumbnail":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/materialdesign/185.png",
-            "dimensions":"3200x2560",
-            "copyright":"Free (do whatever you want)",
-            "collections":"material design"
-        },
-        {
-            "name":"Material Design 186",
-            "author":"Axinen",
-            "url":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/materialdesign/186.png",
-            "thumbnail":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/materialdesign/186.png",
-            "dimensions":"3200x2560",
-            "copyright":"Free (do whatever you want)",
-            "collections":"material design"
-        },
-        {
-            "name":"Material Design 187",
-            "author":"Axinen",
-            "url":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/materialdesign/187.png",
-            "thumbnail":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/materialdesign/187.png",
-            "dimensions":"3200x2560",
-            "copyright":"Free (do whatever you want)",
-            "collections":"material design"
-        },
-        {
-            "name":"Material Design 188",
-            "author":"Axinen",
-            "url":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/materialdesign/188.png",
-            "thumbnail":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/materialdesign/188.png",
-            "dimensions":"3200x2560",
-            "copyright":"Free (do whatever you want)",
-            "collections":"material design"
-        },
-        {
-            "name":"Material Design 189",
-            "author":"Axinen",
-            "url":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/materialdesign/189.png",
-            "thumbnail":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/materialdesign/189.png",
-            "dimensions":"3200x2560",
-            "copyright":"Free (do whatever you want)",
-            "collections":"material design"
-        },
-        {
-            "name":"Material Design 190",
-            "author":"Axinen",
-            "url":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/materialdesign/190.png",
-            "thumbnail":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/materialdesign/190.png",
-            "dimensions":"3200x2560",
-            "copyright":"Free (do whatever you want)",
-            "collections":"material design"
-        },
-        {
-            "name":"Material Design 191",
-            "author":"Axinen",
-            "url":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/materialdesign/191.png",
-            "thumbnail":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/materialdesign/191.png",
-            "dimensions":"3200x2560",
-            "copyright":"Free (do whatever you want)",
-            "collections":"material design"
-        },
-        {
-            "name":"Material Design 192",
-            "author":"Axinen",
-            "url":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/materialdesign/192.png",
-            "thumbnail":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/materialdesign/192.png",
-            "dimensions":"3200x2560",
-            "copyright":"Free (do whatever you want)",
-            "collections":"material design"
-        },
-        {
-            "name":"Material Design 193",
-            "author":"Axinen",
-            "url":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/materialdesign/193.png",
-            "thumbnail":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/materialdesign/193.png",
-            "dimensions":"3200x2560",
-            "copyright":"Free (do whatever you want)",
-            "collections":"material design"
-        },
-        {
-            "name":"Material Design 194",
-            "author":"Axinen",
-            "url":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/materialdesign/194.png",
-            "thumbnail":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/materialdesign/194.png",
-            "dimensions":"3200x2560",
-            "copyright":"Free (do whatever you want)",
-            "collections":"material design"
-        },
-        {
-            "name":"Material Design 195",
-            "author":"Axinen",
-            "url":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/materialdesign/195.png",
-            "thumbnail":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/materialdesign/195.png",
-            "dimensions":"3200x2560",
-            "copyright":"Free (do whatever you want)",
-            "collections":"material design"
-        },
-        {
-            "name":"Material Design 196",
-            "author":"Axinen",
-            "url":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/materialdesign/196.png",
-            "thumbnail":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/materialdesign/196.png",
-            "dimensions":"3200x2560",
-            "copyright":"Free (do whatever you want)",
-            "collections":"material design"
-        },
-        {
-            "name":"Material Design 197",
-            "author":"Axinen",
-            "url":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/materialdesign/197.png",
-            "thumbnail":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/materialdesign/197.png",
-            "dimensions":"3200x2560",
-            "copyright":"Free (do whatever you want)",
-            "collections":"material design"
-        },
-        {
-            "name":"Material Design 198",
-            "author":"Axinen",
-            "url":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/materialdesign/198.png",
-            "thumbnail":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/materialdesign/198.png",
-            "dimensions":"3200x2560",
-            "copyright":"Free (do whatever you want)",
-            "collections":"material design"
-        },
-        {
-            "name":"Material Design 199",
-            "author":"Axinen",
-            "url":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/materialdesign/199.png",
-            "thumbnail":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/materialdesign/199.png",
-            "dimensions":"3200x2560",
-            "copyright":"Free (do whatever you want)",
-            "collections":"material design"
-        },
-        {
-            "name":"Material Design 200",
-            "author":"Axinen",
-            "url":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/materialdesign/200.png",
-            "thumbnail":"https://raw.githubusercontent.com/Axinen/ZurineWallpapers/master/materialdesign/200.png",
-            "dimensions":"3200x2560",
-            "copyright":"Free (do whatever you want)",
-            "collections":"material design"
-        }
+	
+	    
+       
+     {
+      "author": "Unknown",
+      "name": "Amoled 20",
+      "collections": "Amoled,00020",
+      "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Amoled/Amoled20.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Amoled/Preview/Amoled20%20Preview.jpg",
+      "dimensions": "1080 x 1920",
+      "wallpaper_size": "115 KB",
+      "upload_date": "08 Mar. 2017",
+      "wallpaper_is_recent": "false",
+
+     
+    },
+       
+    {
+      "author": "Unknown",
+      "name": "Amoled 19",
+      "collections": "Amoled,00019",
+      "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Amoled/Amoled19.png",
+      "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Amoled/Preview/Amoled19%20Preview.jpg",
+      "dimensions": "1080 x 1920",
+      "wallpaper_size": "309 KB",
+      "upload_date": "08 Mar. 2017",
+      "wallpaper_is_recent": "false",
+
+     
+    },
+       
+     {
+      "author": "Unknown",
+      "name": "Amoled 18",
+      "collections": "Amoled,00018",
+      "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Amoled/Amoled18.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Amoled/Preview/Amoled18%20Preview.jpg",
+      "dimensions": "1080 x 1920",
+      "wallpaper_size": "202 KB",
+      "upload_date": "01 Mar. 2017",
+      "wallpaper_is_recent": "false",
+
+     
+    },
+       
+    {
+      "author": "Unknown",
+      "name": "Amoled 17",
+      "collections": "Amoled,00017",
+      "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Amoled/Amoled17.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Amoled/Preview/Amoled17%20Preview.jpg",
+      "dimensions": "1080 x 1920",
+      "wallpaper_size": "224 KB",
+      "upload_date": "01 Mar. 2017",
+      "wallpaper_is_recent": "false",
+
+     
+    },
+       
+    {
+      "author": "Unknown",
+      "name": "Amoled 16",
+      "collections": "Amoled,00020",
+      "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Amoled/Amoled16.png",
+      "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Amoled/Preview/Amoled16%20Preview.jpg",
+      "dimensions": "1440 x 2524",
+      "wallpaper_size": "549 KB",
+      "upload_date": "01 Mar. 2017",
+      "wallpaper_is_recent": "false",
+
+     
+    },
+       
+    {
+      "author": "Unknown",
+      "name": "Amoled 15",
+      "collections": "Amoled,00015",
+      "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Amoled/Amoled15.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Amoled/Preview/Amoled15%20Preview.jpg",
+      "dimensions": "1440 x 2560",
+      "wallpaper_size": "1.31 MB",
+      "upload_date": "01 Mar. 2017",
+      "wallpaper_is_recent": "false",
+
+     
+    },      
+       
+       
+    {
+      "author": "Unknown",
+      "name": "Amoled 14",
+      "collections": "Amoled,00014",
+      "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Amoled/Amoled14.png",
+      "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Amoled/Preview/Amoled14%20Preview.jpg",
+      "dimensions": "1080 x 1920",
+      "wallpaper_size": "328 KB",
+      "upload_date": "01 Mar. 2017",
+      "wallpaper_is_recent": "false",
+
+     
+    },
+       
+    {
+      "author": "Unknown",
+      "name": "Amoled 13",
+      "collections": "Amoled,00013",
+      "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Amoled/Amoled13.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Amoled/Preview/Amoled13%20Preview.jpg",
+      "dimensions": "1440 x 2560",
+      "wallpaper_size": "644 KB",
+      "upload_date": "01 Mar. 2017",
+      "wallpaper_is_recent": "false",
+
+     
+    },
+       
+
+    {
+      "author": "Unknown",
+      "name": "Amoled 12",
+      "collections": "Amoled,00012",
+      "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Amoled/Amoled12.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Amoled/Preview/Amoled12%20Preview.jpg",
+      "dimensions": "1080 x 1920",
+      "wallpaper_size": "356 KB",
+      "upload_date": "01 Mar. 2017",
+      "wallpaper_is_recent": "false",
+
+     
+    },
+       
+    {
+      "author": "Unknown",
+      "name": "Amoled 11",
+      "collections": "Amoled,00011",
+      "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Amoled/Amoled11.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Amoled/Preview/Amoled11%20Preview.jpg",
+      "dimensions": "900 x 1600",
+      "wallpaper_size": "343 KB",
+      "upload_date": "01 Mar. 2017",
+      "wallpaper_is_recent": "false",
+
+     
+    },
+       
+    {
+      "author": "Unknown",
+      "name": "Amoled 10",
+      "collections": "Amoled,00010",
+      "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Amoled/Amoled10.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Amoled/Preview/Amoled10%20Preview.jpg",
+      "dimensions": "1440 x 2560",
+      "wallpaper_size": "259 KB",
+      "upload_date": "01 Mar. 2017",
+      "wallpaper_is_recent": "false",
+
+     
+    },      
+       
+       
+    {
+      "author": "Unknown",
+      "name": "Amoled 9",
+      "collections": "Amoled,0009",
+      "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Amoled/Amoled9.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Amoled/Preview/Amoled9%20Preview.jpg",
+      "dimensions": "1080 x 1920",
+      "wallpaper_size": "289 KB",
+      "upload_date": "01 Mar. 2017",
+      "wallpaper_is_recent": "false",
+
+     
+    },
+       
+    {
+      "author": "Unknown",
+      "name": "Amoled 8",
+      "collections": "Amoled,0008",
+      "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Amoled/Amoled8.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Amoled/Preview/Amoled8%20Preview.jpg",
+      "dimensions": "2560 x 2560",
+      "wallpaper_size": "532 KB",
+      "upload_date": "01 Mar. 2017",
+      "wallpaper_is_recent": "false",
+
+     
+    },
+       
+    {
+      "author": "Unknown",
+      "name": "Amoled 7",
+      "collections": "Amoled,0007",
+      "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Amoled/Amoled7.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Amoled/Preview/Amoled7%20Preview.jpg",
+      "dimensions": "3000 x 3000",
+      "wallpaper_size": "653 KB",
+      "upload_date": "01 Mar. 2017",
+      "wallpaper_is_recent": "false",
+
+     
+    },
+       
+    {
+      "author": "Unknown",
+      "name": "Amoled 6",
+      "collections": "Amoled,0006",
+      "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Amoled/Amoled6.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Amoled/Preview/Amoled6%20Preview.jpg",
+      "dimensions": "2560 x 2560",
+      "wallpaper_size": "558 KB",
+      "upload_date": "01 Mar. 2017",
+      "wallpaper_is_recent": "false",
+
+     
+    },       
+       
+   
+    {
+      "author": "Unknown",
+      "name": "Amoled 5",
+      "collections": "Amoled,00005",
+      "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Amoled/Amoled5.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Amoled/Preview/Amoled5%20Preview.jpg",
+      "dimensions": "3200 x 2560",
+      "wallpaper_size": "951 KB",
+      "upload_date": "01 Mar. 2017",
+      "wallpaper_is_recent": "false",
+
+     
+    },
+       
+     {
+      "author": "Unknown",
+      "name": "Amoled 4",
+      "collections": "Amoled,0004",
+      "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Amoled/Amoled4.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Amoled/Preview/Amoled4%20Preview.jpg",
+      "dimensions": "1440 x 2560",
+      "wallpaper_size": "760 KB",
+      "upload_date": "01 Mar. 2017",
+      "wallpaper_is_recent": "false",
+
+     
+    },
+       
+       
+    {
+      "author": "Unknown",
+      "name": "Amoled 3",
+      "collections": "Amoled,00003",
+      "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Amoled/Amoled3.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Amoled/Preview/Amoled3%20Preview.jpg",
+      "dimensions": "1440 x 2560",
+      "wallpaper_size": "361 KB",
+      "upload_date": "01 Mar. 2017",
+      "wallpaper_is_recent": "false",
+
+     
+    },
+       
+    {
+      "author": "Unknown",
+      "name": "Amoled 2",
+      "collections": "Amoled,00002",
+      "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Amoled/Amoled2.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Amoled/Preview/Amoled2%20Preview.jpg",
+      "dimensions": "1080 x 1920",
+      "wallpaper_size": "267 KB",
+      "upload_date": "01 Mar. 2017",
+      "wallpaper_is_recent": "false",
+
+     
+    },
+       
+    {
+      "author": "Unknown",
+      "name": "Amoled 1",
+      "collections": "Amoled,00001",
+      "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Amoled/Amoled1.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Amoled/Preview/Amoled1%20Preview.jpg",
+      "dimensions": "1080 x 1920",
+      "wallpaper_size": "191 KB",
+      "upload_date": "01 Mar. 2017",
+      "wallpaper_is_recent": "false",
+
+     
+    }
+       
     ]
 }
